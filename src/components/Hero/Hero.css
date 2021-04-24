@@ -1,0 +1,16 @@
+.hero {
+  height: 120vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 50px;
+  background-color: rgb(14, 95, 68);
+  padding-bottom: 20vh;
+}
+.intro {
+  flex: 1;
+  font-size: 48px;
+  line-height: 80px;
+  font-weight: bold;
+  color: white;
+}
